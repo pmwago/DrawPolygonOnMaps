@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DrawPolygonOnMaps</string>
+    <string name="map_key" translatable="false">AIzaSyB4rHpyjTqOz9k2y4ASmLsjyqu39YZ4sbsg</string>
+</resources>
